@@ -3,11 +3,6 @@ A Multi User Chat Application With Laravel and Livewire. where you can chat with
 
 ## Quick Start
 
-Clone the Project
-```
-git clone https://github.com/tauseedzaman/laravel-multi-user-chat-app
-```
-
 change directory
 ```
 cd laravel-multi-user-chat-app
